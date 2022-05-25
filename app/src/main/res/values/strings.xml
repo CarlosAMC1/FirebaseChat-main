@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="txt_usuarios">Usuarios</string>
+    <string name="txt_mi_perfil">Mi Perfil</string>
+    <string name="txt_welcome">INGRESAR</string>
+    <string name="txt_mi_nombre">Mi nombre</string>
+    <string name="txt_bio">Mis referencias</string>
+</resources>
